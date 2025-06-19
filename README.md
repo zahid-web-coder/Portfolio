@@ -51,4 +51,32 @@ A financial news dashboard that delivers:
 ---
 
 ## 📂 Folder Structure
+📁 portfolio-project/
+├── index.html
+├── style.css (optional if extracted)
+├── /images/
+│ ├── bg.png
+│ ├── h.png
+│ ├── ci.png
+│ └── ...
+├── zahid_resume.pdf
+├── README.md
+
+
+---
+
+## 📬 Contact Me
+
+- 📧 Email: [mohammedzahid2217@gmail.com](mailto:mohammedzahid2217@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/mohammad-zahid-88970b298](https://www.linkedin.com/in/mohammad-zahid-88970b298/)
+- 🐱 GitHub: [github.com/zahid-web-coder](https://github.com/zahid-web-coder)
+- 📞 Phone: +91-8660410083
+
+---
+
+## 📄 License
+
+This project is open-source and free to use. Attribution appreciated but not required.
+
+
 
