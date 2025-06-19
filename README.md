@@ -6,7 +6,8 @@ This site showcases my skills, projects, services, and contact information in a 
 ## 📌 Live Preview
 
 > *(Optional)* Host it on GitHub Pages or Netlify and insert the link here:
-[Live Demo](http://127.0.0.1:5501/index.html#about)
+[Live Demo](https://zahid-web-coder.github.io/Portfolio/
+)
 
 ---
 
