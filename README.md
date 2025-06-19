@@ -6,7 +6,7 @@ This site showcases my skills, projects, services, and contact information in a 
 ## 📌 Live Preview
 
 > *(Optional)* Host it on GitHub Pages or Netlify and insert the link here:
-[Live Demo](https://your-portfolio-link.com)
+[Live Demo](http://127.0.0.1:5501/index.html#about)
 
 ---
 
